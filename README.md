@@ -2,7 +2,8 @@
 
 Using Big Data Methods to determine overall sentiment (i.e. how much someone likes something) regarding the top two smarphone options, either Samsung or iPhone. 
 
-Follow the below links to view my process and results. 
+Follow the below links to view my process and results.
+
 [Background] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Steps/Background.md)
 
 [Data Overview] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Steps/Data%20Overview.md)
