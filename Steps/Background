@@ -1,2 +1,2 @@
-Background/Problem 
+#Background/Problem 
 Helio reached out to Alert Analytics to determine which smartphone platform is most preferred by customers. Helio is working with a government health agency that would like to use ONLY 1 smartphone application system for a suite of new medical apps. This application suite will be used worldwide by health care professionals and aid workers, especially in developing countries, in order to manage local health conditions by facilitating communication with off site medical professionals. The initial inquiry included 7 smartphones, but was narrowed down to the top two, iPhone and Samsung Galaxy. 
