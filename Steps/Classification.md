@@ -12,3 +12,6 @@ The results were somewhat surprising in that sentiment towards the iPhone and Sa
 ![iPhone Chart] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Images/iPhoneChart.png)
 ![Samsung Chart] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Images/SamsungChart2.png)
 
+Continue to [Next Steps] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Steps/Next%20Steps.md)
+
+Return to [Data Overview] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Steps/Data%20Overview.md0)
