@@ -10,3 +10,6 @@ On the other hand, I do see some improvements in the process. The terms for posi
 
 In conclusion, this data analysis effort did not predict a clear winner when comparing customer sentiment towards either iPhone or Samsung Galaxy products, but did show that these two devices have extremely high sentiment in the marketplace. Therefore, whichever application platform Helio decides to go with to build their suite of health care apps, their users will have an enjoyable experience with either device. 
 
+Continue to [Final Thoughts] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Steps/Final%20Thoughts.md)
+
+Return to [Classification] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Steps/Classification.md)
