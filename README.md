@@ -2,7 +2,7 @@
 
 Using Big Data Methods to determine sentiment (i.e. how much someone likes/dislikes an item)  of the top two smarphone options, Samsung or iPhone. 
 
-Follow the below links to view my the problem I was presented with, the gathered data, how classification can be used to determine sentiment and my final thoughts. 
+Follow the below links to view my the problem I was presented with, the gathered data, how classification was used to determine sentiment and my final thoughts. 
 
 [Background] (https://github.com/chelswhite84/Sentiment-Analysis/blob/master/Steps/Background.md)
 
